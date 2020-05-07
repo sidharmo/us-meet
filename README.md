@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Greenlight
 
 ![Travis CI](https://travis-ci.org/bigbluebutton/greenlight.svg?branch=master)
@@ -35,3 +36,7 @@ We invite you to build upon Greenlight and help make it better. See [Contributin
 
 We invite your feedback, questions, and suggests about Greenlight too. Please post them to the [developer mailing list](https://groups.google.com/forum/#!forum/bigbluebutton-dev).
 
+=======
+# us-meet
+Interfaces UNSIL Meet
+>>>>>>> ea2fbd9a1a3850c29d34e305bbadb209d6ab11f5
